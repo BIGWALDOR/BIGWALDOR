@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BIGWALDOR aka Walid, and I am a Fullstack Engineer at ezyVet.
+- 👋 Hi, I’m Walid, and I am a Fullstack Engineer at ezyVet.
 - 👀 I’m interested in building web applications with great user experiences.
 - 🌱 I’m currently learning PHP, Golang and SQL.
 - 💞️ I’m looking to collaborate on any open-source projects.
