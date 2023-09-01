@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Walid, and I am a Fullstack Engineer at ezyVet.
-- 👀 I’m interested in building web applications with great user experiences.
+- 👋 Hi, I’m Walid, and I am a Software Developer at MenuAid.
 - 🌱 I’m currently learning Laravel.
 - 💞️ I’m looking to collaborate on any open-source projects.
 - 📫 How to reach me: LinkedIn: Walid Bouladam, IG: @dev_walid, Twitter: @devwalid_.
