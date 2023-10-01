@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Walid and I am a Software Developer at MenuAid.</h1>
+<h1 align="center">Kia ora, I'm Walid 👋</h1>
+<h3 align="center">I am a Software Developer at MenuAid.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bigwaldor&label=Profile%20views&color=0e75b6&style=flat" alt="bigwaldor" /> </p>
 
-- 🌱 I’m currently learning **_Laravel, Vue.js and Flutter._**
+- 🌱 I’m currently learning **Laravel, Vue.js and Flutter.**
 
-- 👨‍💻 All of my projects are available at **[walidbouladam.com](walidbouladam.com)**.
+- 👨‍💻 All of my projects are available at [walidbouladam.com](walidbouladam.com)
+
+- 📫 How to reach me **LinkedIn, Twitter, Instagram.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
