@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bigwaldor&label=Profile%20views&color=0e75b6&style=flat" alt="bigwaldor" /> </p>
 
-- 🌱 I’m currently learning **Laravel, Vue.js and Flutter.**
+- 🌱 I’m currently learning **_Laravel, Vue.js and Flutter_.**
 
-- 👨‍💻 All of my projects are available at [walidbouladam.com](walidbouladam.com)
+- 👨‍💻 All of my projects are available at **[walidbouladam.com](walidbouladam.com)**.
 
 - 📫 How to reach me **LinkedIn, Twitter, Instagram.**
 
